@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I stumbled on this secret repo name trick in github, so I thought why not lets try it out. 
 
-I am a student at VIT, Vellore, India, passionate about making strides in web and app development.
+I am a student passionate about making strides. I am well versed in web and app development.
 
 📫 How to reach me:  Feel free to contact me on 28 baidsaurav@gmail.com
 
