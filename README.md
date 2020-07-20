@@ -19,7 +19,7 @@ I stumbled on this secret repo name trick in github, so I thought why not lets t
 
 I am a student passionate about making strides. I am well versed in web and app development.
 
-📫 How to reach me:  Feel free to contact me on 28 baidsaurav@gmail.com
+📫 How to reach me:  Feel free to contact me on 28baidsaurav@gmail.com
 
 👯 I’m looking to collaborate on anything that provides a learning oppurtunity to me. I primarily work on React, Js and React Native
 
