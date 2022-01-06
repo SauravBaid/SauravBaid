@@ -25,6 +25,3 @@ I am a student passionate about making strides the tech industry. I am well vers
 https://docs.google.com/document/d/1xBPmpvLju72yVecMzg-IWEsyGOajNiPe70Fa0E8JjLU/edit?usp=sharing
 
 ⚡ Fun fact: If you are looking on how to do so, create a repo with the same name as your username, initliase the README.md and make it public
-
-CIAO!
-
